@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: ef7fd7de1e83340f4bba2961daca8a13
+timeCreated: 1525427207
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FF6_iOS_Terra_Sprites_XBR_0
+    21300002: FF6_iOS_Terra_Sprites_XBR_1
+    21300004: FF6_iOS_Terra_Sprites_XBR_2
+    21300006: FF6_iOS_Terra_Sprites_XBR_3
+    21300008: FF6_iOS_Terra_Sprites_XBR_4
+    21300010: FF6_iOS_Terra_Sprites_XBR_5
+    21300012: FF6_iOS_Terra_Sprites_XBR_6
+    21300014: FF6_iOS_Terra_Sprites_XBR_7
+    21300016: FF6_iOS_Terra_Sprites_XBR_8
+    21300018: FF6_iOS_Terra_Sprites_XBR_9
+    21300020: FF6_iOS_Terra_Sprites_XBR_10
+    21300022: FF6_iOS_Terra_Sprites_XBR_11
+    21300024: FF6_iOS_Terra_Sprites_XBR_12
+    21300026: FF6_iOS_Terra_Sprites_XBR_13
+    21300028: FF6_iOS_Terra_Sprites_XBR_14
+    21300030: FF6_iOS_Terra_Sprites_XBR_15
+    21300032: FF6_iOS_Terra_Sprites_XBR_16
+    21300034: FF6_iOS_Terra_Sprites_XBR_17
+    21300036: FF6_iOS_Terra_Sprites_XBR_18
+    21300038: FF6_iOS_Terra_Sprites_XBR_19
+    21300040: FF6_iOS_Terra_Sprites_XBR_20
+    21300042: FF6_iOS_Terra_Sprites_XBR_21
+    21300044: FF6_iOS_Terra_Sprites_XBR_22
+    21300046: FF6_iOS_Terra_Sprites_XBR_23
+    21300048: FF6_iOS_Terra_Sprites_XBR_24
+    21300050: FF6_iOS_Terra_Sprites_XBR_25
+    21300052: FF6_iOS_Terra_Sprites_XBR_26
+    21300054: FF6_iOS_Terra_Sprites_XBR_27
+    21300056: FF6_iOS_Terra_Sprites_XBR_28
+    21300058: FF6_iOS_Terra_Sprites_XBR_29
+    21300060: FF6_iOS_Terra_Sprites_XBR_30
+    21300062: FF6_iOS_Terra_Sprites_XBR_31
+    21300064: FF6_iOS_Terra_Sprites_XBR_32
+    21300066: FF6_iOS_Terra_Sprites_XBR_33
+    21300068: FF6_iOS_Terra_Sprites_XBR_34
+    21300070: FF6_iOS_Terra_Sprites_XBR_35
+    21300072: FF6_iOS_Terra_Sprites_XBR_36
+    21300074: FF6_iOS_Terra_Sprites_XBR_37
+    21300076: FF6_iOS_Terra_Sprites_XBR_38
+    21300078: FF6_iOS_Terra_Sprites_XBR_39
+    21300080: FF6_iOS_Terra_Sprites_XBR_40
+    21300082: FF6_iOS_Terra_Sprites_XBR_41
+    21300084: FF6_iOS_Terra_Sprites_XBR_42
+    21300086: FF6_iOS_Terra_Sprites_XBR_43
+    21300088: FF6_iOS_Terra_Sprites_XBR_44
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 764
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 760
+        width: 104
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_3
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 760
+        width: 88
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_4
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 764
+        width: 88
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_5
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 760
+        width: 88
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_6
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 760
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_7
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 760
+        width: 104
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_8
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 760
+        width: 112
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_9
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 760
+        width: 104
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 568
+        width: 112
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 572
+        width: 144
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 568
+        width: 104
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 568
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 568
+        width: 116
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_15
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 572
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 572
+        width: 108
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_17
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 572
+        width: 108
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 572
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_19
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 572
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 380
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 380
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 380
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_23
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 380
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 380
+        width: 104
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 380
+        width: 96
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_26
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_27
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 384
+        width: 116
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 380
+        width: 96
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_29
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 380
+        width: 92
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_30
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 540
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_31
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 516
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 380
+        width: 188
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 188
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 188
+        width: 96
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 188
+        width: 88
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_36
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 184
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_37
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 188
+        width: 104
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_38
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 184
+        width: 104
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 188
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_40
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 188
+        width: 96
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_41
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 188
+        width: 108
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_42
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 192
+        width: 148
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FF6_iOS_Terra_Sprites_XBR_44
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 128
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
